@@ -1,0 +1,51 @@
+body {
+	background-color: #f1eeee;
+}
+.wrap {
+        max-width: 1024px;
+        margin: 20px auto;
+        background-color: #FFFFFF;
+        position: absolute;
+}
+
+.span2{
+	width: 700px;
+	float: left;
+	background-color: #FFFFFF;
+
+}
+.span1{
+	width: 304px;
+    margin-left: 20px;
+    float:left;
+    background-color: #FFFFFF;
+}
+
+.cv-section-title img {
+	max-width: 150px;
+	max-height: 150px;
+	float: right;
+    margin-right: 20px;
+    padding: 5px;
+    border: 1px solid #dadada;
+}
+.cv-section-title h1 {
+    margin-left:100px;
+
+}
+
+
+.cv-section-title h5 {
+     margin-left:100px;
+
+}
+
+
+.cv-section { 
+    padding: 10px 0;
+    position: relative;
+}
+
+#footer {
+    padding-top: 0;
+}
