@@ -1,11 +1,17 @@
-body {
-	background-color: #f1eeee;
-}
+body 
 .wrap {
         max-width: 1024px;
         margin: 20px auto;
         background-color: #FFFFFF;
-        position: absolute;
+
+
+}
+#header{
+    position: relative;
+}
+.cv-section { 
+    padding: 10px 0;
+    position: relative;
 }
 
 .span2{
@@ -23,7 +29,7 @@ body {
 
 .cv-section-title img {
 	max-width: 150px;
-	max-height: 150px;
+	max-height: 300px;
 	float: right;
     margin-right: 20px;
     padding: 5px;
@@ -41,10 +47,7 @@ body {
 }
 
 
-.cv-section { 
-    padding: 10px 0;
-    position: relative;
-}
+
 
 #footer {
     padding-top: 0;
